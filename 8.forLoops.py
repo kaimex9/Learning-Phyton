@@ -1,3 +1,5 @@
+# Los bucles for sirven para recorrer un rango de numeros o cadenas de texto
+
 import time #Importamos la libreria time para usar time.sleep()
 
 for i in range(10): #Un bucle for standar del 0 al 9

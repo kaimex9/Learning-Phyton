@@ -1,3 +1,5 @@
+# Los bucles while se utilizan para repetir un bloque de código mientras una condición sea verdadera.
+
 text = input("Ingresa tu nombre: ")
 
 while text == "": # Si el usuario no ingresa nada, se le pedirá que ingrese su nombre nuevamente
